@@ -9,4 +9,4 @@ In this system there a speech_recognition library is also used for the speech to
 Work Flow Diagram:
 -------------
 ![Work Flow](work_flow.png)
-    "# Speaker_Recognition" 
+
